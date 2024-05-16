@@ -1,2 +1,1 @@
-"# hi" 
 "# Python coding practice"
